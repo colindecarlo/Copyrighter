@@ -1,0 +1,22 @@
+{
+    "name": "soupbowlweb/copyrighter",
+    "authors": [
+        {
+            "name": "Dan Soppelsa",
+            "email": "dsoppelsa@gmail.com"
+        }
+    ],
+    "description": "Copyrighter displays the copyright symbol and the current year on your PHP website.",
+    "keywords": ["copyright", "year", "display"],
+    "version": "1.0",
+    "license": "MIT",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Copyrighter\\": "src/Copyrighter/"
+        }
+    },
+    "minimum-stability": "dev"
+}
